@@ -1,0 +1,14 @@
+apiVersion: v2
+name: postgres
+version: 0.1.0
+appVersion: master
+description: Postgres deployment.
+dependencies:
+  - name: postgresql
+    version: 11.1.3
+    repository: https://charts.bitnami.com/bitnami
+    condition: postgresql.enabled
+#  - name: bitnami/postgresql
+#    version: 11.1.3
+#    repository: https://repo.chartcenter.io
+#    condition: postgresql.enabled
