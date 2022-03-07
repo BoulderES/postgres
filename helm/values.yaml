@@ -29,9 +29,9 @@ global:
   imagePullSecrets: []
   storageClass: ""
   postgresql:
-    username: "postgres_external"
+    username: "postgres"
     password: "ch4ng3m3"
-    database: "gitlab_2"
+    database: "gitlab"
     repmgrUsername: ""
     repmgrPassword: ""
     repmgrDatabase: ""
