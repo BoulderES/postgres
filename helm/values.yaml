@@ -31,7 +31,7 @@ global:
   postgresql:
     username: "postgres"
     password: "ch4ng3m3"
-    database: "gitlab"
+    database: "gitlabhq_production"
     repmgrUsername: ""
     repmgrPassword: ""
     repmgrDatabase: ""
