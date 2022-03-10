@@ -362,7 +362,7 @@ postgresql:
   ##
   username: postgres
   password: ""
-  database: ""
+  database: "gitlabhq_production"
   ## @param postgresql.existingSecret PostgreSQL password using existing secret
   ##
   existingSecret: ""
