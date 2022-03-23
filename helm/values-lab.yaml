@@ -1,0 +1,6 @@
+global:
+  storageClass: "qnap-nfs"
+  postgresql:
+    username: "postgres"
+    password: "ch4ng3m3"
+    database: "gitlabhq_production"
