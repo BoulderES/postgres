@@ -5,3 +5,4 @@ global:
     password: "ch4ng3m3"
     database: "gitlabhq_production"
 
+extendedConfCM: "test"
