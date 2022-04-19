@@ -6,3 +6,5 @@ global:
     database: "gitlabhq_production"
 
 extendedConfCM: "test"
+initdbScripts: "test"
+
