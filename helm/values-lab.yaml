@@ -1,4 +1,5 @@
 global:
+  storageClass: "longhorn"
   postgresql:
     username: "postgres"
     password: "ch4ng3m3"
